@@ -1,14 +1,9 @@
-<div>
-<a href="https://github.com/Renozixx">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renozixx&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Renzixx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<h1 align="left">Olá 🖐!</h1>
 
-### Languages
-<div>
-  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<p align="left">Meu nome é Hugo Otávio, estudo programação desde 2021, focando em tecnologias web, como PHP, JS e Frameworks, e como ela funciona. Estudante em ADS, almejo ser um profissional na área.</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugOtavioS&radius=16&theme=react&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ## Redes
@@ -27,6 +22,13 @@
   </a>
 </div>
 <br>
+
+### Languages
+<div>
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
 
 ## Frontend
 <div>  
