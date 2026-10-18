@@ -1,75 +1,67 @@
-<h1 align="left">Olá, Tudo bem🖐! Hugo aqui, atualmente estudante de ADS e desenvolvedor backend.</h1>
+# Guia Web de Arquitetura de Software
 
-<!-- STATUS -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HugOtavioS&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=true" height="250" alt="activity-graph graph"  />
-</div>
+Site da atividade **"Guia Web de Arquitetura de Software"** da UC **Gestão de Projetos** (GP_ADSIST_301_251T01), curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, Faculdade de Tecnologia SENAI Félix Guisard (Taubaté/SP), 2026.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HugOtavioS&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HugOtavioS&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+O site explica três conceitos de arquitetura de software, publicados em martinfowler.com, e mostra como cada um afeta a gestão de um projeto em **prazo, custo, equipe e riscos**.
 
-<br clear="both">
-<br clear="both">
+## Integrantes
 
-<!-- LINGUAGENS -->
-<h3 align="center">Um pouco do que sei</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-</div>
+| Nome | RA |
+|---|---|
+| Julio César Santos de Morais | 25172737 |
+| _Integrante 2_ | _________ |
 
-<br clear="both">
-<br clear="both">
+As fotos dos integrantes ficam na pasta `fotos/` (`integrante1.jpg` e `integrante2.jpg`).
 
-<!-- CONTATOS -->
-<h3 align="center">Contate-me</h3>
-<div align="center">
-  <a href="https://www.facebook.com/hugo.otavio.39683" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/hugotavios/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+## Posts escolhidos
 
-<br clear="both">
-<br clear="both">
+| Eixo | Post | Página do site |
+|---|---|---|
+| 1 – Microsserviços | [Monolith First](https://martinfowler.com/bliki/MonolithFirst.html) – Martin Fowler | `monolith-first.html` |
+| 2 – Fronteiras e evolução | [Patterns of Legacy Displacement](https://martinfowler.com/articles/patterns-legacy-displacement/) – Ian Cartwright, Rob Horn, James Lewis | `legacy-displacement.html` |
+| 3 – Camadas e execução | [Presentation Domain Data Layering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html) – Martin Fowler | `layering.html` |
 
-<!-- SPOTIFY -->
-<h3 align="center">Me conheça um pouco mais. ^3^</h3>
-<div align="center">
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317d3ppcdgsocfcvb2upu3w3fftm)
-  
-</div>
+Cada página contém: (1) resumo da ideia central com as palavras da equipe, (2) vantagens e desvantagens, (3) impacto na gestão do projeto (prazo, custo, equipe e riscos) e (4) link para o post original.
 
-<!-- ONDAS -->
-</div>
+## Declaração de uso de Inteligência Artificial
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=22293d&height=120&section=footer"/>
+**Este projeto foi desenvolvido com apoio de Inteligência Artificial.**
 
-</div>
+- **Ferramenta:** Claude (Anthropic).
+- **Uso:** leitura dos três posts originais, redação dos resumos, vantagens/desvantagens e análises de impacto na gestão, tradução para o inglês, criação dos diagramas em SVG e geração do código HTML, CSS e JavaScript.
+- **Revisão da equipe:** todo o conteúdo foi conferido pela equipe com os posts originais para garantir que as explicações estão corretas e fiéis aos textos. As análises de impacto na gestão são interpretações da equipe a partir dos posts.
+- Os diagramas são criações próprias, inspiradas nos conceitos dos posts; nenhuma imagem ou trecho extenso dos originais foi copiado.
+
+## Recursos do site
+
+- Página inicial com os integrantes, links para as 3 páginas e uma matriz comparativa de impacto na gestão.
+- Opção de idioma **Português / Inglês** (botão PT/EN no topo; a escolha fica salva no navegador).
+- Diagramas próprios em SVG, ícones e layout responsivo (celular e desktop), com modo escuro automático.
+- Sem dependências: HTML, CSS e JavaScript puros (apenas fontes do Google Fonts).
+
+## Estrutura
+
+```
+index.html                 página inicial
+monolith-first.html        Eixo 1
+legacy-displacement.html   Eixo 2
+layering.html              Eixo 3
+css/style.css              estilos
+js/script.js               troca de idioma PT/EN
+fotos/integrante1.jpg      foto do integrante 1
+fotos/integrante2.jpg      foto do integrante 2
+README.md                  este arquivo
+```
+
+## Como publicar no GitHub Pages (cada integrante)
+
+1. Criar um repositório **público** no GitHub (ex.: `guia-arquitetura`).
+2. Enviar todos os arquivos desta pasta (incluindo a pasta `fotos/`), mantendo o `index.html` na raiz.
+3. Em **Settings → Pages**, em *Build and deployment*, escolher **Deploy from a branch**, branch `main` e pasta `/ (root)`, e salvar.
+4. Aguardar alguns minutos e acessar `https://<seu-usuario>.github.io/guia-arquitetura/`.
+5. Testar os links das 3 páginas, o botão PT/EN e os links para os posts originais.
+6. Postar o link no SENAI EAD (todos os integrantes devem postar).
+
+## Créditos
+
+Os textos originais pertencem aos seus autores e estão disponíveis em [martinfowler.com](https://martinfowler.com).
