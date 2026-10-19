@@ -15,9 +15,9 @@ Desenvolvedor fullstack júnior · Técnico em Informática · Estudante de ADS 
 - **[Lumini](https://github.com/HugOtavioS/lumini)** — app mobile e web para propostas de energia solar, com medição por RA e operação offline-first.
 
 ### Stack
-**Uso no dia a dia:** JavaScript · PHP · SQL (MySQL, SQLite) · Tailwind CSS · Git
-**Também trabalhei com:** Flutter/Dart · AWS (IoT Core, EC2, RDS) · n8n · ESP32
-**Em aprofundamento:** React · Node.js
+**Uso no dia a dia:** JavaScript · PHP · SQL (MySQL, SQLite) · Tailwind CSS · Git </br>
+**Também trabalhei com:** Flutter/Dart · AWS (IoT Core, EC2, RDS) · n8n · ESP32 </br>
+**Em aprofundamento:** React · Node.js </br>
 
 <!-- STATUS 
 <div align="center">
