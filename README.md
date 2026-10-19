@@ -5,8 +5,7 @@
 
 ## Hugo Otávio dos Santos de Paula
 
-Desenvolvedor fullstack júnior · Técnico em Informática · Estudante de ADS no SENAI Taubaté
-Caçapava/SP — região de São José dos Campos
+Desenvolvedor fullstack júnior · Técnico em Informática · Estudante de ADS no SENAI Félix Guisard · Caçapava/SP — região de São José dos Campos
 
 ### Projetos em destaque
 - **ARLink** — coleta de dados para instalação de links de internet com realidade aumentada e painel administrativo. 1º lugar na categoria TIC do 4º Science & Business Connection (PIT SJC).
