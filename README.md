@@ -3,7 +3,7 @@
 Desenvolvedor fullstack júnior · Técnico em Informática · Estudante de ADS no SENAI Félix Guisard · Caçapava/SP — região de São José dos Campos
 
 ### Projetos em destaque
-- **ARLink** — coleta de dados para instalação de links de internet com realidade aumentada e painel administrativo. 1º lugar na categoria TIC do 4º Science & Business Connection (PIT SJC).
+- **ARLink** — coleta de dados para instalação de links de internet com realidade aumentada e painel administrativo. 1º lugar - Melhor Resumo na categoria TIC do 4º Science & Business Connection (PIT SJC).
 - **Plataforma e API para consultório clínico** — API RESTful em PHP com SQLite e painel de moderação autenticado. [Ver no ar](https://juliannasantos.com)
 - **[PHP MVC Framework](https://github.com/HugOtavioS/php-mvc-framework)** — micro-framework MVC em PHP puro, do zero: roteador com rotas públicas/protegidas/admin, CRUD sobre PDO com injeção de dependência, sessões, leitor de `.env` e exceções tipadas por domínio. Front-end em React 19.
 - **Telemetria IoT na AWS** — ESP32 + MQTT/mTLS → IoT Core → Node.js (EC2) → MySQL (RDS).
